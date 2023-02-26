@@ -1,2 +1,2 @@
-# videoEditor
-Building video editor with MoviePy
+# GIF Maker
+Building GIF Maker
