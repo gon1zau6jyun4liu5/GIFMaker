@@ -1,9 +1,9 @@
-.. pynecone_examples_collection documentation master file, created by
+.. GIFMaker documentation master file, created by
    sphinx-quickstart on Sat Mar  4 20:53:06 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to pynecone_examples_collection's documentation!
+Welcome to GIFMaker's documentation!
 ========================================================
 
 .. toctree::
@@ -15,9 +15,6 @@ Welcome to pynecone_examples_collection's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
