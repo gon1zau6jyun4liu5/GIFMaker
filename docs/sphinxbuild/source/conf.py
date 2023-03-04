@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'pynecone_examples_collection'
+project = 'GIFMaker'
 copyright = '2023, Jackim'
 author = 'Jackim'
 
